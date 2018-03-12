@@ -1,0 +1,6 @@
+c:\users\subrat kumar gupta\documents\visual studio 2017\Projects\RectangleCode\RectangleCode\bin\Debug\RectangleCode.exe.config
+c:\users\subrat kumar gupta\documents\visual studio 2017\Projects\RectangleCode\RectangleCode\bin\Debug\RectangleCode.exe
+c:\users\subrat kumar gupta\documents\visual studio 2017\Projects\RectangleCode\RectangleCode\bin\Debug\RectangleCode.pdb
+c:\users\subrat kumar gupta\documents\visual studio 2017\Projects\RectangleCode\RectangleCode\obj\Debug\RectangleCode.csprojResolveAssemblyReference.cache
+c:\users\subrat kumar gupta\documents\visual studio 2017\Projects\RectangleCode\RectangleCode\obj\Debug\RectangleCode.exe
+c:\users\subrat kumar gupta\documents\visual studio 2017\Projects\RectangleCode\RectangleCode\obj\Debug\RectangleCode.pdb
